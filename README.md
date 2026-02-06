@@ -2,6 +2,11 @@
 
 Backend (Spring Boot, Kafka, Redis, Gemini) and frontend (React, Tailwind) for an AI-powered email draft assistant. Connects to Gmail, categorizes incoming mail, generates draft replies with AI, and lets you review or skip before sending.
 
+## Demo Video
+<p align="center" width="100%">
+<video src="https://github.com/user-attachments/assets/f9da702d-9f2b-41f2-b11b-eaf50f905615" width="80%" controls muted></video>
+</p>
+
 ## Layout
 
 - **`backend/`** – Spring Boot app (Gmail → Kafka → categorize → draft → Redis). Run from here.
