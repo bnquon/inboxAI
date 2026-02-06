@@ -1,0 +1,23 @@
+[
+  {
+    "id": "demo-q1-review",
+    "from": "Sarah Chen <sarah.chen@acmecorp.com>",
+    "subject": "Quick review of the Q1 deck before Friday?",
+    "body": "Hey,\n\nWhen you get a chance, could you take a look at the Q1 summary deck I attached and leave comments? I need to present it to leadership on Friday and want to make sure the numbers and narrative are solid.\n\nNo need for a full line-by-line—just any high-level feedback or spots that feel unclear. If you're swamped, even a quick pass would help.\n\nThanks,\nSarah",
+    "snippet": "When you get a chance, could you take a look at the Q1 summary deck I attached..."
+  },
+  {
+    "id": "demo-product-sync",
+    "from": "Mike Torres <mike.torres@ridgeway.io>",
+    "subject": "Reschedule: Product sync",
+    "body": "Hi,\n\nSomething came up on my side and I won't be able to make our 2pm product sync tomorrow. Would you be open to moving it to Thursday or Friday? I'm free 10am–12pm or after 3pm either day.\n\nLet me know what works and I'll send the update to the rest of the group.\n\nCheers,\nMike",
+    "snippet": "Something came up on my side and I won't be able to make our 2pm product sync tomorrow..."
+  },
+  {
+    "id": "demo-brand-assets",
+    "from": "Jessica Park <jpark@ventura-design.com>",
+    "subject": "Re: Brand assets for the campaign",
+    "body": "Hi,\n\nFollowing up on the brand assets—do you know when the final logo variants and approved color palette will be ready? We're aiming to lock the campaign creative by end of week and those are the last pieces we're waiting on.\n\nIf there's a delay, even a rough ETA would help so we can adjust the timeline on our side.\n\nThanks,\nJessica",
+    "snippet": "Following up on the brand assets—do you know when the final logo variants..."
+  }
+]

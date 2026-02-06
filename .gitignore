@@ -1,0 +1,50 @@
+# Build outputs
+target/
+.mvn
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# OS
+.DS_Store
+Thumbs.db
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code / Cursor ###
+.vscode/
+.cursor/
+
+### Local config (Google OAuth secrets) ###
+**/application-local.yml
+
+### Node ###
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.pnpm-debug.log
+lerna-debug.log
+package-lock.json

@@ -1,0 +1,10 @@
+# Copy to application-local.yml (gitignored) and fill in real values.
+# Or set env: GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET, GOOGLE_REDIRECT_URI
+# Redirect URI must match "Authorized redirect URIs" in Google Cloud Console → Credentials.
+
+google:
+  client:
+    id: your-google-client-id.apps.googleusercontent.com
+    secret: your-google-client-secret
+  redirect:
+    uri: http://localhost:8080/oauth2/callback
